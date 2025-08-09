@@ -1,0 +1,1 @@
+# This project intentionally avoids third-party dependencies so installation is a no-op.
